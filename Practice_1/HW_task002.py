@@ -1,5 +1,5 @@
 while True:
-    print("Enter the year number. If you want to stop enter: exit")
+    print("Enter a three-digit number. If you want to stop enter: exit")
     numb = input()
     result = 0 
     if numb == 'exit':
